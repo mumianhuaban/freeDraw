@@ -7,9 +7,16 @@
 ![Image text](https://raw.githubusercontent.com/mumianhuaban/freeDraw/master/showPic/canvas.png)
 
 
+
+
+
 功能介绍：
 
 ![Image text](https://raw.githubusercontent.com/mumianhuaban/freeDraw/master/showPic/canvas_c.png)
+
+
+
+
 
 效果演示：
 

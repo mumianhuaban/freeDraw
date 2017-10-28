@@ -1,0 +1,16 @@
+
+
+.main{
+    clear:both;
+}
+
+@media screen and (max-width: 900px){
+    .main img{
+        width:50%;
+    }
+}
+@media screen and (max-width:500px) {
+    .main img{
+        width:100%;
+    }
+}
